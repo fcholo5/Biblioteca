@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/Vista/LibroPanel.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/Vista/BibliotecarioPanel.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/modelo/Prestamo.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/Vista/UserPanel.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/servicio/PrestamoService.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/servicio/ReservaService.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/servicio/LibroService.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/servicio/LoginPanel.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/servicio/SancionService.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/servicio/UsuarioService.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/servicio/MainFrame.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/modelo/Libro.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/Vista/AdminPanel.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/Vista/SancionTableModel.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/Vista/ReservaPanel.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/util/DatabaseConnection.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/Vista/SancionPanel.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/modelo/Usuario.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/Vista/PrestamoPanel.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/Vista/RegistroUsuarioPanel.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/nuevo_/Bibliot/src/Vista/UsuarioPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
